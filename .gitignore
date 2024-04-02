@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Directory for environment variables
+/env/
+
+# Specific file with sensitive information
+config/secrets.json
+
+# Log files
+*.log
+
+# Node modules directory
+node_modules/
